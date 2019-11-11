@@ -1,2 +1,2 @@
-# Sortari
-The most important sorting algorithms in Java
+# Search and Sort 
+The most important sorting and search algorithms in Java
